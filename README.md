@@ -1,4 +1,4 @@
-# Object-Detection-Counting-Using-YoloV3
+# Object-Detection-Counting-Using-YoloV4
 
 In this walkthrough we will be using Jupyter notebook with a 3.9 Python kernel. We will use a basic GitHub with the COCO names, the config file and the notebook. 
 
